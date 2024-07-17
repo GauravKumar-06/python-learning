@@ -1,0 +1,1 @@
+print("Hello","I am Noob", "in python", sep=",")
